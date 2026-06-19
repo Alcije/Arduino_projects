@@ -75,4 +75,23 @@ Learning electronics is all about experimenting, making mistakes, and trying aga
 
 Have fun building!
 
+# Materiel utile
+
+- Arduino Uno ou compatible
+- LEDs + resistances 220 ohms
+- Boutons poussoirs
+- Buzzer
+- Capteur PIR
+- Capteur ultrason HC-SR04
+- Capteur DHT11 ou LM35 selon le projet
+- Servos SG90 ou servos continus
+- Moteurs DC
+- Driver moteur L298N ou L293D
+- Potentiometres 10k
+- LDR + resistances
+- Module Bluetooth HC-05 ou HC-06
+- Capteur couleur TCS3200/TCS230 pour le trieur
+
+Les projets robots demandent souvent une alimentation separee pour les moteurs. Il faut relier les GND ensemble.
+
 (This repository reflects my own learning journey. AI was used as a writing assistant to help structure and improve the README, and also to improve project names.)
