@@ -75,4 +75,4 @@ Learning electronics is all about experimenting, making mistakes, and trying aga
 
 Have fun building!
 
-(This repository reflects my own learning journey. AI was used as a writing assistant to help structure and improve the README.)
+(This repository reflects my own learning journey. AI was used as a writing assistant to help structure and improve the README, and also to improve project names.)
