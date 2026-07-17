@@ -75,23 +75,23 @@ Learning electronics is all about experimenting, making mistakes, and trying aga
 
 Have fun building!
 
-# Materiel utile
+# Useful Materials
 
-- Arduino Uno ou compatible
-- LEDs + resistances 220 ohms
-- Boutons poussoirs
-- Buzzer
-- Capteur PIR
-- Capteur ultrason HC-SR04
-- Capteur DHT11 ou LM35 selon le projet
-- Servos SG90 ou servos continus
-- Moteurs DC
-- Driver moteur L298N ou L293D
-- Potentiometres 10k
-- LDR + resistances
-- Module Bluetooth HC-05 ou HC-06
-- Capteur couleur TCS3200/TCS230 pour le trieur
+* Arduino Uno or compatible board
+* LEDs + 220 Ω resistors
+* Push buttons
+* Buzzer
+* PIR motion sensor
+* HC-SR04 ultrasonic sensor
+* DHT11 or LM35 temperature sensor (depending on the project)
+* SG90 servo motors or continuous rotation servos
+* DC motors
+* L298N or L293D motor driver
+* 10 kΩ potentiometers
+* LDR (photoresistor) + resistors
+* HC-05 or HC-06 Bluetooth module
+* TCS3200/TCS230 color sensor for the color sorting project
 
-Les projets robots demandent souvent une alimentation separee pour les moteurs. Il faut relier les GND ensemble.
+Robot projects often require a separate power supply for the motors. Make sure to connect all GND (ground) pins together.
 
 (This repository reflects my own learning journey. AI was used as a writing assistant to help structure and improve the README, and also to improve project names.)
